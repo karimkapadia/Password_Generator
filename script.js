@@ -101,33 +101,3 @@ function generatePassword()
 
 
 }
-
-
-
-
-
-// -----------------------------------------------------------------------------------------------------------------------------------
- //   alert('please enter numbers only')
-            //   passLenght= prompt('how many characters long password you need?')
-            //   console.log(passLenght);
-
-              
-
-            // }
-            // else if(passLenght == '')
-            // {
-            //   alert('please enter numbers only')
-            //   passLenght= prompt('how many characters long password you need?')
-
-
-            // }
-            // else if(fianl_passLength<8 || fianl_passLength>128)
-            // {
-            //   alert('Password cannot be blank')
-            //   passLenght= prompt('how many characters long password you need?')
-            // }
-            // else
-            // {
-            //     console.log('you are else part')
-            // }
-
